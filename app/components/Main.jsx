@@ -13,7 +13,6 @@ var Main = (props) => {
         </div>
       </div>
     </div>
-
   );
 }
 
